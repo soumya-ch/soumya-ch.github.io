@@ -6,7 +6,7 @@
   paper: https://aclanthology.org/2022.acl-long.460/
   pdf: https://arxiv.org/pdf/2204.00871.pdf
   arxiv: https://arxiv.org/abs/2204.00871
-  slides: files/presentation.pdf
+  slides: acl22/presentation.pdf
   img: images/postaln.png
 - title: Meta-Learning of Dynamic Policy Adjustments in Inhibitory Control Tasks
   authors: __Soumya Chatterjee__\*, Aakriti Kumar\*, Pradeep Shenoy
